@@ -2,7 +2,7 @@
 
 A responsive, neon-dark portfolio built with HTML, CSS, and JavaScript.
 
-**Live:** [suryapratap-18.github.io](https://suryapratap-18.github.io)
+**Live:** [code-suryaa.github.io](https://code-suryaa.github.io)
 
 ---
 
@@ -17,8 +17,8 @@ First-year B.Tech CSE (AI & ML) student building projects, solving problems, and
 - Problem-solving
 
 **Projects:**
-- [C++ Mini Projects](https://github.com/Suryapratap-18/cpp-mini-projects)
-- [Python Projects](https://github.com/Suryapratap-18/python-projects)
+- [C++ Mini Projects](https://github.com/code-suryaa/cpp-mini-projects)
+- [Python Projects](https://github.com/code-suryaa/python-projects)
 
 ---
 
@@ -44,7 +44,7 @@ First-year B.Tech CSE (AI & ML) student building projects, solving problems, and
 
 ## 🔗 Connect
 
-- **GitHub:** [Suryapratap-18](https://github.com/Suryapratap-18)
+- **GitHub:** [Suryapratap-18](https://github.com/code-suryaa)
 - **LinkedIn:** [surya-codes](https://linkedin.com/in/surya-codes)
 - **Instagram:** [@code.surya.io](https://instagram.com/code.surya.io)
 - **Email:** codesurya.io@gmail.com
